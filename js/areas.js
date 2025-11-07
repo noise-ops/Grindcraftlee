@@ -40,7 +40,7 @@ addArea("c",                                            // Function for adding a
 
     grinds: [
         {
-            name: "surface",
+            name: "nether",
             unlocked: true,
             auto: ["dirt hut"],                         // List of items that will auto-grind this grind
             background: "images/grinds/overworld.png",
